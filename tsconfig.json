@@ -21,6 +21,7 @@
     "esModuleInterop": true,
     "moduleResolution": "node",
     "declarationDir": "./dist",
-    "types": ["jest","node", "mongoose"]
+    "types": ["node", "mongoose", "jest"]
+   
   }
 }
